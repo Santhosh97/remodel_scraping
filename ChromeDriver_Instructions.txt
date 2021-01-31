@@ -1,0 +1,15 @@
+1. Install Chrome web browser (If Chrome isn't installed already)
+2. Check the version of your Chrome Browser
+✅Go to Settings, 
+✅Then Click on About Chrome (Should be on the Left bottom side of the screen)
+✅You'll get the version of your Chrome Browser (Mine is 87.0.4280.141)
+3. Download ChromeDriver
+✅Go to https://chromedriver.chromium.org/downloads
+✅You'll see the list of available chromedriver
+✅Download the appropiate version of ChromeDriver. My Chrome browser version is 87 so, I would download the one that matches my version.
+
+4. After downloading the chromedriver.exe file for the respective OS and copy that .exe file into your local.
+
+5. Add the path to the selenium script at top of the code.
+
+
